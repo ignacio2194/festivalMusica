@@ -1,0 +1,25 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": " practica usando sass y gulp",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacio2194/festivalMusica.git"
+  },
+  "author": "ignacio benitez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacio2194/festivalMusica/issues"
+  },
+  "homepage": "https://github.com/ignacio2194/festivalMusica#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.1"
+  }
+}
